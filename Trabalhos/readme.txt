@@ -19,4 +19,4 @@ para multiplicação.
 Exemplos:
 	Entrada - 4+3-6; Saída - 7; 
 	Entrada - 8/7*5-6; Saída - -1;
-	Entrada - 8+9-7/7-14; Saída - 0;
+	Entrada - 8+9-7/7-14; Saída - 0; 
